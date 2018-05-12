@@ -1,0 +1,44 @@
+_repo: Het-verhaal-van-de-honingbij_28963
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Spielmann, Percy Edwin
+    birthdate: 1881
+    gutenberg_agent_id: '33612'
+    url: http://www.gutenberg.org/2009/agents/33612
+  translator:
+    agent_name: Eeden-Van Vloten, M. van
+    aliases:
+    - Van Vloten, M. Van Eeden
+    - Van Eeden-Van Vloten, M.
+    - Vloten, M. van Eeden-Van
+    - Vloten, Martha van
+    birthdate: 1857
+    deathdate: 1943
+    gutenberg_agent_id: '25405'
+    url: http://www.gutenberg.org/2009/agents/25405
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Edwardes, Tickner
+    birthdate: 1865
+    deathdate: 1944
+    gutenberg_agent_id: '33609'
+    url: http://www.gutenberg.org/2009/agents/33609
+description: ''
+gutenberg_issued: '2009-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28963'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bees'
+- !lcsh 'Honeybee'
+- !lcc 'QL'
+title: Het verhaal van de honingbij
+url: http://www.gutenberg.org/ebooks/28963
